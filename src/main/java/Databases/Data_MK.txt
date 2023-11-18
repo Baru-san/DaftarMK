@@ -1,0 +1,6 @@
+aaa, ai, 16, r43
+akbar,tba,12,e31
+akbar,ai,41,r43
+akbar,si,12,r12
+akbar,rara,123,e32
+a,aa,aa,aa
